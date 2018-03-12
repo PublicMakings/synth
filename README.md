@@ -2,7 +2,7 @@
 Toy Synth Build
 
 ## Tasks
-- [x] [Make research document](synth/reference/links&notes.md)
+- [x] [Make research document](reference/links&notes.md)
 - [ ] Make breadboard mock up
 - [ ] Make schematics
 - [ ] order parts
