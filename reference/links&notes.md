@@ -1,4 +1,18 @@
-## Core Components
+## Components
+* 555 timer
+* 4040
+* 40406
+* 75... hex schmidt
+* LM386 audio amp
+* capacitors
+* potentiometer
+* resistors
+*
+
+## Core Elements
+### General Outline
+* [Casper Electronics](https://www.youtube.com/watch?v=FaoJaLmZaL4)tutorials!!!
+
 ### AMP
 * [Basic amp plan video](https://www.youtube.com/watch?v=ZOuZWE_tfgQ)
 * [Slightly more complicated amp build](https://www.youtube.com/watch?v=eikfRF66hRA)
