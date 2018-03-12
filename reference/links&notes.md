@@ -3,7 +3,7 @@
 * 4040
 * 40406
 * 75... hex schmidt
-* LM386 audio amp
+* [LM386 audio amp](http://www.ti.com/lit/ds/symlink/lm386.pdf)
 * capacitors
 * potentiometer
 * resistors
