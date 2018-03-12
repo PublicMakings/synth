@@ -1,7 +1,7 @@
 ## Components
 * 555 timer
 * 4040
-* 40406
+* 40106 - hex schmidt trigger
 * 75... hex schmidt
 * [LM386 audio amp](http://www.ti.com/lit/ds/symlink/lm386.pdf)
 * capacitors
