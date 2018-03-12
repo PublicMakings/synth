@@ -1,20 +1,53 @@
 ## Components
-* 555 timer
-* 4040
-* 40106 - hex schmidt trigger
+* [555 timer, maybe?](http://www.ti.com/lit/ds/symlink/lm555.pdf)
+* [cd4040 divider/counter](http://datasheet.octopart.com/CD4040BE-Texas-Instruments-datasheet-7283420.pdf)
+* [cd4051 multiplexer/demultiplexer](http://www.ti.com/lit/ds/symlink/cd4051b.pdf)
+* [cd40106 - hex schmidt trigger/inverter](http://www.ti.com/lit/ds/symlink/cd40106b.pdf)
 * 75... hex schmidt
 * [LM386 audio amp](http://www.ti.com/lit/ds/symlink/lm386.pdf)
 * capacitors
 * potentiometer
+  * 8 x 100k
+  * 1 x 10k
+  * misc...
 * resistors
-*
+* switches
+* buttons
+* 9v battery
+* LEDS
+* power supply
+* power regulator
+* speaker with 1/8" plug?, this would allow for switching with exciter and other output devices
 
 ## Core Elements
-### General Outline
-* [Casper Electronics](https://www.youtube.com/watch?v=FaoJaLmZaL4)tutorials!!!
+### General Outline for tones and sequencer
+* [Casper Electronics](https://www.youtube.com/watch?v=FaoJaLmZaL4) tutorials!!!
+
+#### *Controls*
+* On/off
+* Volume
+* Rate
+* Step Controls
+  * Start/Stop stepper
+  * single step
+  * potentiometers on the steps
+  * momentary switches to play
+  * on/off switches
+  * toggle for capacitance values? perhaps have only a couple either in groups or in single sections
+  * fucked up logic controls jumblers that throws off the binary infeed on the multiplexer, perhaps only momentary switches.
+
+
+#### *Exapnsion Under the Hood*
+have two hex schmidt triggers to allow some breathing room on the tones oscilators; For each inverter have a pair of headers solder in, to allow for additional re-wiring. Also have a selection of resistor values and a few unused pots to add as the bridges. *important to leave room for jumpers, perhaps this section has it's own little opening and board section.
+
+
 
 ### AMP
-* [Basic amp plan video](https://www.youtube.com/watch?v=ZOuZWE_tfgQ)
+* [Basic amp plan video](https://www.youtube.com/watch?v=ZOuZWE_tfgQ) Potentially build this as a seperate board, I can solder up both the bass boost version and the simple one. Have this connect via a jumper and headers for swaping out?
+  * have a disconnectable jumper for the gain. 
+  * have an additional input for playing through other signals{perhaps a wired pickup?} have a pot on this to regulate the strenght of this signal
+  * two outputs, feedback loop?
+
 * [Slightly more complicated amp build](https://www.youtube.com/watch?v=eikfRF66hRA)
 
 
