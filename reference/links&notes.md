@@ -36,7 +36,7 @@ Here's a [concrete schematic and simple breakdown](http://little-scale.blogspot.
 
 [Similar breakdown](https://jakobglock.wordpress.com/tag/cd4040/), but 555 as oscilator.
 
-More detailed breakdown of 4051[4051](https://hackaday.com/2015/02/23/logic-noise-the-switching-sequencer/).
+More detailed breakdown of [4051](https://hackaday.com/2015/02/23/logic-noise-the-switching-sequencer/).
 
 #### *Controls*
 * On/off
