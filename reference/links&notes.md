@@ -23,6 +23,7 @@
 ### General Outline for tones and sequencer
 * [Casper Electronics](https://www.youtube.com/watch?v=FaoJaLmZaL4) tutorials!!!
 * [good construction notes](https://www.youtube.com/watch?v=x2Jt1os23UM)
+* [good usage of reset pin](https://www.youtube.com/watch?v=qI5WTshUXbg)
 
 #### *Controls*
 * On/off
