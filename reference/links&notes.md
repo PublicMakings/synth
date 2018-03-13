@@ -84,5 +84,6 @@ have two hex schmidt triggers to allow some breathing room on the tones oscilato
 * [casper electronics triggering with transistors](https://web.archive.org/web/20161126125254/http://casperelectronics.com/finished-pieces/circuit-bending-tutorial/looping-with-transistors/)
 * [useful 'splaining going on](https://www.youtube.com/watch?v=f9GO3OC8oDY) **
 * [Electro Music](http://electro-music.com/) seems like the site is no longer maintained, but useful articles.
+* [Grumpy guy with lots of modules](https://www.cgs.synth.net/modules/) 
 
 
