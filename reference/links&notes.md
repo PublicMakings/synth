@@ -58,3 +58,15 @@ have two hex schmidt triggers to allow some breathing room on the tones oscilato
 * [Sampler with Arduino Mega](https://www.youtube.com/watch?v=tUapZ_JdHLE)
 * [Class D Amps](https://www.youtube.com/watch?v=O1UagNkcxi4)
 * [All about inductors tutorial video](https://www.youtube.com/watch?v=NgwXkUt3XxQ)
+
+### more synth videos & links
+* [Basement drum machine genius](https://www.youtube.com/watch?v=bPvnk-ShM8E)
+* [LFO to 40106 ocilator](https://www.youtube.com/watch?v=2iBgvQXzvTA)
+* [QUICK Build video](https://www.youtube.com/watch?v=RfKNHV9t8so)
+* [no talking, but a couple crucial schematics](https://www.youtube.com/watch?v=LNHLZY0Hvqk)
+* [Polyphonic tone generator](https://www.youtube.com/watch?v=LFyvaDnOTBw) ** __worth exploring more__
+* [3d print](http://blog.tommy.sh/posts/okay-synth)
+* [casper electronics triggering with transistors](https://web.archive.org/web/20161126125254/http://casperelectronics.com/finished-pieces/circuit-bending-tutorial/looping-with-transistors/)
+* [useful 'splaining going on](https://www.youtube.com/watch?v=f9GO3OC8oDY) **
+
+
