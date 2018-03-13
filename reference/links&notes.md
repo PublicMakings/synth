@@ -27,6 +27,12 @@
 
 This [article](http://electro-music.com/forum/phpbb-files/booleansequencertutorial_158.txt) offers a lot of voacb and a conceptual outline which is useful.
 
+Here's a [concrete schematic and simple breakdown](http://little-scale.blogspot.com/2007/06/simple-sequencer.html) of the 40106, 4040, and 4051 combo.
+
+[Similar breakdown](https://jakobglock.wordpress.com/tag/cd4040/), but 555 as oscilator.
+
+More detailed breakdown of 4051[4051](https://hackaday.com/2015/02/23/logic-noise-the-switching-sequencer/).
+
 #### *Controls*
 * On/off
 * Volume
