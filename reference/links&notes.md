@@ -25,6 +25,8 @@
 * [good construction notes](https://www.youtube.com/watch?v=x2Jt1os23UM)
 * [good usage of reset pin](https://www.youtube.com/watch?v=qI5WTshUXbg)
 
+This [article](http://electro-music.com/forum/phpbb-files/booleansequencertutorial_158.txt) offers a lot of voacb and a conceptual outline which is useful.
+
 #### *Controls*
 * On/off
 * Volume
@@ -70,5 +72,6 @@ have two hex schmidt triggers to allow some breathing room on the tones oscilato
 * [3d print](http://blog.tommy.sh/posts/okay-synth)
 * [casper electronics triggering with transistors](https://web.archive.org/web/20161126125254/http://casperelectronics.com/finished-pieces/circuit-bending-tutorial/looping-with-transistors/)
 * [useful 'splaining going on](https://www.youtube.com/watch?v=f9GO3OC8oDY) **
+* [Electro Music](http://electro-music.com/) seems like the site is no longer maintained, but useful articles.
 
 
