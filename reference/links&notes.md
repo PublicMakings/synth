@@ -22,6 +22,7 @@
 ## Core Elements
 ### General Outline for tones and sequencer
 * [Casper Electronics](https://www.youtube.com/watch?v=FaoJaLmZaL4) tutorials!!!
+* [good construction notes](https://www.youtube.com/watch?v=x2Jt1os23UM)
 
 #### *Controls*
 * On/off
