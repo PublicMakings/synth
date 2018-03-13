@@ -11,7 +11,7 @@ Toy Synth Build
 - [ ] order [parts](https://www.digikey.com/)
 
 - [ ] solder mock up oscilator stepper
-- [x] solder mock up amp
+- [ ] solder mock up amp
 
 - [ ] solder amp{*add bus for multiple ins and outs?*}
 - [ ] solder oscilator
