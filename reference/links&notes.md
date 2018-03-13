@@ -3,20 +3,25 @@
 * [cd4040 divider/counter](http://datasheet.octopart.com/CD4040BE-Texas-Instruments-datasheet-7283420.pdf)
 * [cd4051 multiplexer/demultiplexer](http://www.ti.com/lit/ds/symlink/cd4051b.pdf)
 * [cd40106 - hex schmidt trigger/inverter](http://www.ti.com/lit/ds/symlink/cd40106b.pdf)
-* 75... hex schmidt
 * [LM386 audio amp](http://www.ti.com/lit/ds/symlink/lm386.pdf)
 * capacitors
 * potentiometer
   * 8 x 100k
   * 1 x 10k
-  * misc...
+  * misc...?
 * resistors
 * switches
-* buttons
-* 9v battery
+  * on-off-on rocker
+  * mom-off-mom rocker
+  * on/off slider
+  * single pole single throw(is this the right name?)
+  * *buttons: both locking buttons and momentary would be useful.*
 * LEDS
+  * indivual lights for steps
+  * ON indicator 
 * power supply
-* power regulator
+  * 9v battery
+  * power regulator
 * speaker with 1/8" plug?, this would allow for switching with exciter and other output devices
 
 ## Core Elements
