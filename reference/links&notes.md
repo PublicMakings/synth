@@ -75,6 +75,8 @@ have two hex schmidt triggers to allow some breathing room on the tones oscilato
 * [All about inductors tutorial video](https://www.youtube.com/watch?v=NgwXkUt3XxQ)
 
 ### more synth videos & links
+* [DIY synth zine](https://www.techwillsaveus.com/az/wp-content/uploads/2014/02/Synth_manual_V2.0_digital.pdf)
+*
 * [Basement drum machine genius](https://www.youtube.com/watch?v=bPvnk-ShM8E)
 * [LFO to 40106 ocilator](https://www.youtube.com/watch?v=2iBgvQXzvTA)
 * [QUICK Build video](https://www.youtube.com/watch?v=RfKNHV9t8so)
