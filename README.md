@@ -8,7 +8,7 @@ Toy Synth Build
 - [ ] Make breadboard mock up of stepper
 - [x] Make schematics of amp
 - [x] Make schematics of stepper & oscilator
-- [ ] order [parts](https://www.digikey.com/)
+- [x] order [parts](https://www.digikey.com/)
 
 - [ ] solder mock up oscilator stepper
 - [ ] solder mock up amp
