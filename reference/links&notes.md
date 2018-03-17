@@ -80,6 +80,10 @@ have two hex schmidt triggers to allow some breathing room on the tones oscilato
 * [Basement drum machine genius](https://www.youtube.com/watch?v=bPvnk-ShM8E)
 * [LFO to 40106 ocilator](https://www.youtube.com/watch?v=2iBgvQXzvTA)
 * [QUICK Build video](https://www.youtube.com/watch?v=RfKNHV9t8so)
+* [Lot of good schematics](http://musicfromouterspace.com/analogsynth_new/SEQ16_2006/SEQ16_2006.php), a sight worth revisiting.
+* 
+* [Sweet and funny cardboard bo build](http://www.instructables.com/id/10-Step-Analog-Sequencer/) 
+*
 * [no talking, but a couple crucial schematics](https://www.youtube.com/watch?v=LNHLZY0Hvqk)
 * [Polyphonic tone generator](https://www.youtube.com/watch?v=LFyvaDnOTBw) ** __worth exploring more__
 * [3d print](http://blog.tommy.sh/posts/okay-synth)
