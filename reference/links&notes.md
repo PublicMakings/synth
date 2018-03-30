@@ -75,6 +75,10 @@ have two hex schmidt triggers to allow some breathing room on the tones oscilato
 * [All about inductors tutorial video](https://www.youtube.com/watch?v=NgwXkUt3XxQ)
 
 ### more synth videos & links
+* [REALLY like this overview](https://www.allaboutcircuits.com/projects/diy-synth-series-vco/), *Manipulating Digital Signals over time*.
+* [An intro Primer](https://bleeplabs.com/intro-to-diy-synthesis/), good text and documentation parrallel to Casper Electronics.
+* Useful general parts list.
+*
 * [DIY synth zine](https://www.techwillsaveus.com/az/wp-content/uploads/2014/02/Synth_manual_V2.0_digital.pdf)
 *
 * [Basement drum machine genius](https://www.youtube.com/watch?v=bPvnk-ShM8E)
